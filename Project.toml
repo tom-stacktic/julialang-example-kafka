@@ -1,0 +1,9 @@
+[project]
+name = "KafkaConsumer"
+uuid = "12345678-1234-5678-1234-567812345678"
+authors = ["Your Name"]
+version = "0.1.0"
+
+[deps]
+Kafka = "1df390a0-c40f-5b6d-b9aa-9c3ed740e8d0"
+JSON3 = "0f8b85d4-1b0e-5ef5-8621-e4c0f5de1886"
